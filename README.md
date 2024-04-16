@@ -1,23 +1,2 @@
 This project aims to develop a robust model for predicting the prices of used cars by leveraging exploratory data analysis (EDA), feature engineering, and experimentation with various encoding techniques and machine learning models.
 
-|Column name| -- |Description|
-dateCrawled  - Date the car was crawled. (Date)
-name -  Name of the car. (String)
-seller -  Type of seller (private or dealer). (String)
-offerType -  Type of offer (e.g. sale, repair, etc.). (String)
-price -  Price of the car. (Integer)
-abtest -  Test type (A or B). (String)
-vehicleType -  Type of vehicle (e.g. SUV, sedan, etc.). (String)
-yearOfRegistration -  Year the car was registered. (Integer)
-gearbox -  Type of gearbox (manual or automatic). (String)
-powerPS -  Horse Power of the car in PS. (Integer)
-model -  Model of the car. (String)
-kilometer -  Kilometers the car has been driven. (Integer)
-monthOfRegistration -  Month the car was registered. (Integer)
-fuelType -  Type of fuel (e.g. diesel, petrol, etc.). (String)
-brand -  Brand of the car. (String)
-notRepairedDamage -  Whether or not the car has any damage that has not been repaired. (String)
-dateCreated -  Date the car was up for sale. (Date)
-nrOfPictures -  Number of pictures of the car. (Integer)
-postalCode -  Postal code of the owner. (Integer)
-lastSeen -  last seen of the owner. (Date)
